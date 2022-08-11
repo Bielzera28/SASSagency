@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/SASSagency/static/css/main.ce9c934b.css",
+    "main.js": "/SASSagency/static/js/main.75aae5e5.js",
+    "static/js/787.dc810c12.chunk.js": "/SASSagency/static/js/787.dc810c12.chunk.js",
+    "static/media/job2.jpg": "/SASSagency/static/media/job2.87b28f9c617fd446d585.jpg",
+    "static/media/job1.jpg": "/SASSagency/static/media/job1.abe40317706874456004.jpg",
+    "static/media/office.jpg": "/SASSagency/static/media/office.b4c152851e0fb5880d29.jpg",
+    "static/media/job5.jpg": "/SASSagency/static/media/job5.119bbfb8ec318bd436a9.jpg",
+    "static/media/job4.jpg": "/SASSagency/static/media/job4.e26c69c13080cb97e017.jpg",
+    "static/media/job3.jpg": "/SASSagency/static/media/job3.4e70a46fa96b53e81195.jpg",
+    "index.html": "/SASSagency/index.html",
+    "main.ce9c934b.css.map": "/SASSagency/static/css/main.ce9c934b.css.map",
+    "main.75aae5e5.js.map": "/SASSagency/static/js/main.75aae5e5.js.map",
+    "787.dc810c12.chunk.js.map": "/SASSagency/static/js/787.dc810c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce9c934b.css",
+    "static/js/main.75aae5e5.js"
+  ]
+}
